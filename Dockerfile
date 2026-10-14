@@ -1,4 +1,4 @@
-FROM python:3.7
+FROM python:3.9
 
 # Copy all project files into the /app directory inside the container
 COPY . /app
